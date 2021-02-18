@@ -17,12 +17,12 @@ const apivhtear = 'Apikey vhtear';
 const apibarbar = 'Apikey mhankbarbar';
 const BotName = 'VVIPINDO BOT'; 
 const instagram = 'agus_alnsyh71- kaelMk_'; 
-const aktif = 'Kapan bot aktif';
+const aktif = '17-02-2021';
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
-            + 'FN:Agus\n' // Nama kamu
-            + 'ORG:VVIPINDO;\n' // Nama bot
-            + 'TEL;type=CELL;type=VOICE;waid=6289613469459:+62 896-1346-9459\n' //Nomor whatsapp kamu
+            + 'FN:Agus\n' // FRezza
+            + 'ORG:VVIPINDO;\n' // FBot
+            + 'TEL;type=CELL;type=VOICE;waid=6289613469459:+62 896-1346-9459\n' //+62 838-7988-2877
             + 'END:VCARD'
 const
 {
